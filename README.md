@@ -1,1 +1,2 @@
-# resume-css
+Resume Link
+https://krutantsinh.github.io/resume-Tailwindcss/
